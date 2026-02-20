@@ -1,2 +1,2 @@
 # tiktok-engagement-bot
-Automated TikTok engagement tool
+The tiktok-engagement-bot is an automation tool designed to enhance engagement on TikTok by automating key tasks like liking videos, commenting on them, and following users. It helps businesses, influencers, and marketers scale their engagement efforts while maintaining active interaction with their audience.
